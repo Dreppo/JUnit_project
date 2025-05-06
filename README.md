@@ -29,3 +29,4 @@ O objetivo deste projeto é demonstrar:
 
 Sinta-se à vontade para adaptar ou expandir o projeto conforme necessário!
 entação de uma lógica básica em Java e a aplicação de testes automatizados com JUnit 5, garantindo a confiabilidade das operações matemáticas.
+e visualiazação com JaCoCo (Java Code Coverage) e SonarQube
