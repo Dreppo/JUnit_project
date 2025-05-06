@@ -34,4 +34,9 @@ public class CalculadoraTest {
         });
         assertEquals("Divisão por zero não é permitida.", exception.getMessage());
     }
+
+    @Test
+    public void testsoma2() {
+        assertEquals(8, calc.somar(5, 3));
+    }
 }

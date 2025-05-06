@@ -32,3 +32,6 @@ entação de uma lógica básica em Java e a aplicação de testes automatizados
 
 ## 👀 Visualização de testes
 visualiazação com JaCoCo (Java Code Coverage) e SonarQube
+
+## link da apresentação 
+https://www.figma.com/proto/TwjhsPstEMnFPi4VdfETX2/Figma-Pitch-Deck-Template--Community-?page-id=9226%3A36&node-id=9227-79&viewport=149%2C33%2C0.55&t=0prSneh57auZjRRX-1&scaling=contain&content-scaling=fixed
