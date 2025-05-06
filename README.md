@@ -1,4 +1,4 @@
-# 📱 Calculadora em Java
+# 📱 org.example.Calculadora em Java
 
 Este projeto é uma calculadora simples desenvolvida em **Java**, com suporte às quatro operações básicas:
 
@@ -22,7 +22,7 @@ O objetivo deste projeto é demonstrar:
 
 ## 🚀 Como rodar o projeto
 
-1. Compile a classe `Calculadora.java`
+1. Compile a classe `org.example.Calculadora.java`
 2. Execute os testes com sua IDE favorita (como IntelliJ ou Eclipse), ou via terminal com Maven/Gradle (caso configurado)
 
 ---

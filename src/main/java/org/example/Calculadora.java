@@ -1,21 +1,23 @@
+package org.example;
+
 public class Calculadora {
 
-    public int somar(int a, int b) {
+    public float somar(float a, float b) {
         return a + b;
     }
 
-    public int subtrair(int a, int b) {
+    public float subtrair(float a, float b) {
         return a - b;
     }
 
-    public int multiplicar(int a, int b) {
+    public float multiplicar(float a, float b) {
         return a * b;
     }
 
-    public double dividir(int a, int b) {
+    public float dividir(float a, float b) {
         if (b == 0) {
             throw new ArithmeticException("Divisão por zero não é permitida.");
         }
-        return (double) a / b;
+        return a / b;
     }
 }

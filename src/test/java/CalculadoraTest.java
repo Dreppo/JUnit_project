@@ -1,4 +1,6 @@
 import org.junit.jupiter.api.Test;
+import org.example.Calculadora;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 public class CalculadoraTest {
